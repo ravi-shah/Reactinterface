@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Building an Interface with React
 This is the repository for my course, [Building an Interface with React](). The full course will be available at [lynda.com](http://lynda.com).
 - [My Personal Website](http://raybo.org)
@@ -20,3 +21,7 @@ For more help setting up a comprehensive Gulp.js workflow, check out [Web Projec
 
 ## More Stuff
 Check out some of my [other courses on lynda.com](http://lynda.com/rayvillalobos). You can also check out my [youtube channel](http://youtube.com/planetoftheweb), [follow me on twitter](http://twitter.com/planetoftheweb), or read [my blog](http://raybo.org).
+=======
+# Reactinterface
+React interface
+>>>>>>> 7ff5b6696ed40ebbaab40691284627268026d54c
